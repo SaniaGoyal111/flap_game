@@ -33,3 +33,4 @@ Collision Detection: Ends the game when a collision is detected.
 Score Display: Displays the score on the screen during gameplay.
 Dependencies
 Pygame: Used for rendering the game graphics, handling input, and managing game events
+![Flappy Bird Gameplay](flap_game.png)
